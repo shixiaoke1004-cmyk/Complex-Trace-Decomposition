@@ -138,8 +138,3 @@ $$\text{NRMS}\\% = \frac{200 \times \text{RMS}(\Delta)}{\text{RMS}(x_1) + \text{
 - Taner, M. T., Koehler, F., & Sheriff, R. E. (1979). Complex seismic trace analysis. *Geophysics*, 44(6), 1041–1063.
 - Johnston, D. H. (2013). *Methods and Applications in Reservoir Geophysics*. SEG.
 
----
-
-## License
-
-MIT
